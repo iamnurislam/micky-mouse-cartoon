@@ -1,20 +1,25 @@
 h1{
     color: red;
     background-color: black;
+    
     font-family: initial;
     width: auto;
     height: auto;
-    margin: auto;
-    padding: auto;
+    margin:100px 400px;
+    padding: 10px;
     text-align: center;
 }
 .micky-pera{
     color: black;
-    background-color: royalblue;
+    background-color: antiquewhite;
     margin: 10px;
-    padding: 10px;
+    padding: 20px;
     font-style: oblique;
+    border: indigo solid 5px;
 }
 img{
     width: 100%;
+}
+body{
+    background-color: rgb(219, 157, 216);
 }
